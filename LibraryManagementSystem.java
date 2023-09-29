@@ -9,7 +9,7 @@ public class LibraryManagementSystem {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.println("\nLibrary Management System");
+            System.out.println("\nAnkush Library Management System");
             System.out.println("1. List of Books Available");
             System.out.println("2. Check Out Book");
             System.out.println("3. Return Book");
